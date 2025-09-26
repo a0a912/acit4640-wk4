@@ -1,5 +1,7 @@
 # acit4640-wk4
 
+By Ahmed Ali, Kevin Ding and Hanan Kakooza
+
 ## Instructions on general set up:
 
 ### Download Files:
